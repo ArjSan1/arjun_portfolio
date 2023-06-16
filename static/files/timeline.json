@@ -1,0 +1,37 @@
+[
+  {
+    "year": "May 2023-Present",
+    "events": [
+      {
+        "icon": "work",
+        "title": "Systems Administrator | UW Department of Medicine",
+        "content": "System Aministration of Linux servers running HTCondor at Pepperell Research Lab. Assist researchers with using computing resources and create and modify scripts to work with lab servers. Installation and modification of software from both Linux software repositories and from the source code."
+      },
+      {
+        "icon": "work",
+        "title": "Undergraduate Researcher | Undergraduate Machine Learning Research",
+        "content": "Researcher at Informatics Skunkworks. Currently applying generative machine learning models to train a Diffusion Variational Autoencoder that learns about the structures of crystal materials, how they are linked to properties of interest, and to predict new materials with those properties in a targeted range."
+      }
+    ]
+  },
+  {
+    "year": "January 2023-March 2023",
+    "events": [
+      {
+        "icon": "work",
+        "title": "Software Engineering Intern | Flow",
+        "content": "Member of Machine Learning and AI team utilizing CI/CD DevOps strategies to design backend using Python, NumPy, Pandas, Flask, Scikit-Learn, etc., These libraries were used to optimize sales leads and increase the number of phone calls by 50% for sales associates."
+      }
+    ]
+  },
+  {
+    "year": "2022-2025",
+    "events": [
+      {
+        "icon": "school",
+        "title": "B.S. Computer Science, Data Science, and Economics w/ Math Emphasis | UW - Madison",
+        "content": "Relevant Coursework: CS 300 (Programming II), CS 400 (Programming III)"
+      }
+    ]
+  }
+]

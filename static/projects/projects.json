@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "name": "MadHacks23",
+      "link": "MadHacks23",
+      "date": "03/04/2023",
+      "short": "The Artifier - convert your images into art-themed ones",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/MadHacks23/img.jpg"
+      ]
+    },
+    {
+      "name": "HackFTW22",
+      "link": "HackFTW22",
+      "date": "04/30/2022",
+      "short": "Talking Treevor - Chatbot in the form of a tree in order to make it fun to learn about how to help the environment",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/HackFTW22/img.jpg"
+      ]
+    },
+    {
+      "name": "GunnHacks",
+      "link": "GunnHacks",
+      "date": "02/12/2021",
+      "short": "Mentis - Mental Health Journaling Application Utilizing NLP and Data Visualization",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/GunnHacks/img.jpg"
+      ]
+    },
+    {
+      "name": "ThetaHacks",
+      "link": "ThetaHacks",
+      "date": "01/14/2021",
+      "short": "COVID-19 Detector in X-RAY Images - Machine learning model that can take COVID-19 chest X-RAYS, and return a percentage probability of the patient with that X-RAY having COVID.",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/ThetaHacks/img.jpg"
+      ]
+    },
+    {
+      "name": "HackFTW20",
+      "link": "HackFTW20",
+      "date": "02/01/2020",
+      "short": "Dating Tree - Website helps lovers find each other and allows them to plant a tree on their first date. As the tree grows, it symbolizes the relationships growth.",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/HackFTW20/img.jpg"
+      ]
+    }
+  ]
+}
